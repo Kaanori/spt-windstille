@@ -1,5 +1,7 @@
 # Windstille (wind calm)
 
+> **Now part of [Kaan's QoL](https://github.com/Kaanori/spt-kaansqol)** – this module is included there (with your settings migrated automatically). This stand-alone version is no longer updated.
+
 Makes calm wind in EFT actually silent.
 
 ## How this mod was made (AI disclosure)
